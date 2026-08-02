@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:00BFFF,100:1E90FF&height=200&section=header&text=Your%20Name&fontSize=70&fontColor=ffffff&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:00BFFF,100:1E90FF&height=200&section=header&text=Rivandi%20ilham&fontSize=70&fontColor=ffffff&animation=twinkling)
 
 [![Typing SVG](https://scribesvg.vercel.app/api/render?lines=Building+Next-Gen+AI+Models;Crafting+Custom+OS+Distributions;Securing+Cloud+Infrastructure;Full-Stack+Developer&font=Fira+Code&size=26&color=338BF7&center=true&vCenter=true&width=800&height=80)](https://github.com/DhanushNehru/ScribeSVG)
 

@@ -3,7 +3,17 @@
 ![License](https://img.shields.io/badge/license-GPL--3.0-blue.svg)
 ![Python](https://img.shields.io/badge/python-3.9+-brightgreen.svg)
 
-A dynamic GitHub profile README generator that creates animated SVG banners with a space/galaxy theme. Your GitHub stats, tech stack, and featured projects are rendered as a living galaxy.
+Saya adalah mahasiswa Teknologi Informasi yang memiliki ketertarikan besar pada pengembangan perangkat lunak dan infrastruktur cloud. Saat ini, saya aktif mempelajari berbagai teknologi mulai dari pemrograman web, kecerdasan buatan, hingga sistem operasi. Saya percaya bahwa teknologi adalah alat untuk memecahkan masalah nyata, dan saya sedang dalam perjalanan untuk menjadi seorang arsitek solusi digital yang handal.
+
+Apa yang saya kerjakan saat ini:
+
+📚 Menempuh pendidikan S1 di jurusan Teknologi Informasi.
+
+🛠️ Mengembangkan project portofolio untuk tugas kuliah dan pengembangan diri (seperti website, aplikasi, atau analisis data).
+
+🌱 Mempelajari bahasa pemrograman Python, TypeScript, serta dasar-dasar Docker dan Linux.
+
+Mari terhubung! Saya sangat terbuka untuk diskusi seputar teknologi, kolaborasi project, atau kesempatan magang.
 
 ## Preview
 

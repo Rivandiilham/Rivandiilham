@@ -1,8 +1,5 @@
 # Rivandiilham
 
-![License](https://img.shields.io/badge/license-GPL--3.0-blue.svg)
-![Python](https://img.shields.io/badge/python-3.9+-brightgreen.svg)
-
 Saya adalah mahasiswa Teknologi Informasi yang memiliki ketertarikan besar pada pengembangan perangkat lunak dan infrastruktur cloud. Saat ini, saya aktif mempelajari berbagai teknologi mulai dari pemrograman web, kecerdasan buatan, hingga sistem operasi. Saya percaya bahwa teknologi adalah alat untuk memecahkan masalah nyata, dan saya sedang dalam perjalanan untuk menjadi seorang arsitek solusi digital yang handal.
 
 Apa yang saya kerjakan saat ini:

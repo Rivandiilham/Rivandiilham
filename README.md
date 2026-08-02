@@ -1,20 +1,20 @@
 <!-- HEADER ANIMATION -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:E5C07B,100:98C379&height=200&section=header&text=Rivandi%20ilham&fontSize=70&fontColor=ffffff&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00BFFF,100:8A2BE2&height=200&section=header&text=Rivandi%20ilham&fontSize=70&fontColor=ffffff&animation=twinkling" width="100%"/>
 
 <!-- TYPING ANIMATION -->
 <p align="center">
   <a href="https://github.com/DhanushNehru/ScribeSVG">
-    <img src="https://scribesvg.vercel.app/api/render?lines=Building+Next-Gen+AI+Models;Crafting+Custom+OS+Distributions;Securing+Cloud+Infrastructure;Full-Stack+Developer&font=Fira+Code&size=26&color=61AFEF&center=true&vCenter=true&width=800&height=80" />
+    <img src="https://scribesvg.vercel.app/api/render?lines=Building+Next-Gen+AI+Models;Crafting+Custom+OS+Distributions;Securing+Cloud+Infrastructure;Full-Stack+Developer&font=Fira+Code&size=26&color=BD93F9&center=true&vCenter=true&width=800&height=80" />
   </a>
 </p>
 
 <!-- PROFILE VIEWS COUNTER -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Rivandiilham&style=flat-square&color=C678DD" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Rivandiilham&style=flat-square&color=50FA7B" alt="Profile Views" />
 </p>
 
 <!-- ABOUT ME SECTION -->
-<h2 align="center">🌸 About Me</h2>
+<h2 align="center">👾 About Me</h2>
 
 > "I don't just write code; I build ecosystems. From training AI architectures to compiling custom Linux kernels, I operate at the intersection of intelligence and infrastructure."
 
@@ -53,12 +53,12 @@
 <h2 align="center">📊 The Data Stream</h2>
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rivandiilham&show_icons=true&theme=onedark&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rivandiilham&layout=compact&theme=onedark&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rivandiilham&show_icons=true&theme=dracula&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rivandiilham&layout=compact&theme=dracula&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rivandiilham&theme=onedark&hide_border=true" alt="Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rivandiilham&theme=dracula&hide_border=true" alt="Streak Stats" />
 </p>
 
 <br/>
@@ -90,4 +90,4 @@
 </p>
 
 <!-- FOOTER WAVE -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:E5C07B,100:98C379&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00BFFF,100:8A2BE2&height=120&section=footer" width="100%"/>

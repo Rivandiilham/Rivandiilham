@@ -2,7 +2,6 @@ name: Generate Snake Contribution
 
 on:
   schedule:
-    # Menjalankan action setiap jam 00:00 UTC
     - cron: "0 0 * * *"
   workflow_dispatch:
 
@@ -15,11 +14,10 @@ jobs:
       
       - uses: Platane/snk@v3
         with:
-          github_user_name: Rivandiilham # Ganti ini jika username GitHub kamu beda, tapi harusnya sudah sama
+          github_user_name: Rivandiilham
           outputs: |
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
-            dist/ocean.gif?color_snake=orange&color_dark=run
 
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0

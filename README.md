@@ -3,10 +3,10 @@
 [![Typing SVG](https://scribesvg.vercel.app/api/render?lines=Building+Next-Gen+AI+Models;Crafting+Custom+OS+Distributions;Securing+Cloud+Infrastructure;Full-Stack+Developer&font=Fira+Code&size=26&color=338BF7&center=true&vCenter=true&width=800&height=80)](https://github.com/DhanushNehru/ScribeSVG)
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=flat-square&color=338BF7" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Rivandiilham&style=flat-square&color=338BF7" alt="Profile Views" />
 </p>
 
-## 👨‍💻 User Profile: YOUR_USERNAME
+## 👨‍💻 User Profile: Rivandiilham
 
 > "I don't just write code; I build ecosystems. From training AI architectures to compiling custom Linux kernels, I operate at the intersection of intelligence and infrastructure."
 
@@ -26,20 +26,20 @@
 ## 📊 The Data Stream
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rivandiilham&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rivandiilham&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" alt="Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rivandiilham&theme=tokyonight&hide_border=true" alt="Streak Stats" />
 </p>
 
 ## 🐍 Contribution Snake
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rivandiilham/Rivandiilham/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Rivandiilham/Rivandiilham/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Rivandiilham/Rivandiilham/output/github-snake.svg" />
 </picture>
 
 ## 📫 Connect with Me
@@ -48,7 +48,7 @@
   <a href="mailto:your.email@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/yourusername">
+  <a href="https://linkedin.com/in/Rivandiilham">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/YOUR_USERNAME">

@@ -1,37 +1,70 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:00BFFF,100:1E90FF&height=200&section=header&text=Rivandi%20ilham&fontSize=70&fontColor=ffffff&animation=twinkling)
+<!-- HEADER ANIMATION -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:E5C07B,100:98C379&height=200&section=header&text=Rivandi%20ilham&fontSize=70&fontColor=ffffff&animation=twinkling" width="100%"/>
 
-[![Typing SVG](https://scribesvg.vercel.app/api/render?lines=Building+Next-Gen+AI+Models;Crafting+Custom+OS+Distributions;Securing+Cloud+Infrastructure;Full-Stack+Developer&font=Fira+Code&size=26&color=338BF7&center=true&vCenter=true&width=800&height=80)](https://github.com/DhanushNehru/ScribeSVG)
-
+<!-- TYPING ANIMATION -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Rivandiilham&style=flat-square&color=338BF7" alt="Profile Views" />
+  <a href="https://github.com/DhanushNehru/ScribeSVG">
+    <img src="https://scribesvg.vercel.app/api/render?lines=Building+Next-Gen+AI+Models;Crafting+Custom+OS+Distributions;Securing+Cloud+Infrastructure;Full-Stack+Developer&font=Fira+Code&size=26&color=61AFEF&center=true&vCenter=true&width=800&height=80" />
+  </a>
 </p>
 
-## 👨‍💻 User Profile: Rivandiilham
+<!-- PROFILE VIEWS COUNTER -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Rivandiilham&style=flat-square&color=C678DD" alt="Profile Views" />
+</p>
+
+<!-- ABOUT ME SECTION -->
+<h2 align="center">🌸 About Me</h2>
 
 > "I don't just write code; I build ecosystems. From training AI architectures to compiling custom Linux kernels, I operate at the intersection of intelligence and infrastructure."
 
-- 🔭 **Focus:** Cloud-Native Security & AI Development
-- 🛠️ **Rig:** Zorin OS | VSCode | Google Colab
-- ⚡ **Superpower:** Switching between Kernel-level debugging and Neural Network optimization
-- 🌱 **Currently learning:** Go & Kubernetes
-
-## 🛠️ The Arsenal
-
-| Core & Systems | AI & Data Science | Web & Cloud |
-|:---:|:---:|:---:|
-| ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) | ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) |
-| ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) | ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white) | ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) |
-| ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white) | ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) |
-
-## 📊 The Data Stream
-
-
-
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rivandiilham&theme=tokyonight&hide_border=true" alt="Streak Stats" />
+  🔭 <b>Focus:</b> Cloud-Native Security & AI Development &nbsp;|&nbsp; 
+  🛠️ <b>Rig:</b> Zorin OS | VSCode | Google Colab &nbsp;|&nbsp; 
+  ⚡ <b>Superpower:</b> Kernel-level debugging to Neural Network optimization &nbsp;|&nbsp; 
+  🌱 <b>Learning:</b> Go & Kubernetes
 </p>
 
-## 🐍 Contribution Snake
+<br/>
+
+<!-- TECH STACK THE ARSENAL -->
+<h2 align="center">🛠️ The Arsenal</h2>
+
+<p align="center">
+  <b>Core & Systems</b><br/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <br/><br/>
+  <b>AI & Data Science</b><br/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <br/><br/>
+  <b>Web & Cloud</b><br/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+</p>
+
+<br/>
+
+<!-- GITHUB STATS SECTION -->
+<h2 align="center">📊 The Data Stream</h2>
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rivandiilham&show_icons=true&theme=onedark&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rivandiilham&layout=compact&theme=onedark&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rivandiilham&theme=onedark&hide_border=true" alt="Streak Stats" />
+</p>
+
+<br/>
+
+<!-- SNAKE CONTRIBUTION -->
+<h2 align="center">🐍 Contribution Snake</h2>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rivandiilham/Rivandiilham/output/github-snake-dark.svg" />
@@ -39,7 +72,10 @@
   <img alt="github-snake" src="https://raw.githubusercontent.com/Rivandiilham/Rivandiilham/output/github-snake.svg" />
 </picture>
 
-## 📫 Connect with Me
+<br/>
+
+<!-- CONNECT WITH ME -->
+<h2 align="center">📫 Connect with Me</h2>
 
 <p align="center">
   <a href="mailto:rivandiilham43@gmail.com">
@@ -52,3 +88,6 @@
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
+
+<!-- FOOTER WAVE -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:E5C07B,100:98C379&height=120&section=footer" width="100%"/>
